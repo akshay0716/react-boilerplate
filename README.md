@@ -1,7 +1,7 @@
 ## REACT BOILERPLATE
 
 In this project I have created a complete deployable react project
-Follwoing things are included in this project
+Following things are included in this project
 # Bootstrap
 # Font-awesome
 # Popper.js
